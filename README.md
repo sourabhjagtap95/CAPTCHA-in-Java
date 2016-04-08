@@ -15,3 +15,5 @@ To run the program in Windows:
 
 You would see your applet.<br/>
 To run the program in Unix -based Operating System (Linux, Fedora)  you have to open Terminal and follow the above steps.
+
+<img src="http://3.bp.blogspot.com/-xiP7Xlo8Ogw/VZFKQFp9o5I/AAAAAAAAA3A/qElv0hVEvR4/s1600/Screenshot%2Bfrom%2B2015-06-29%2B19%255E%252506%255E%252522.png"/>
